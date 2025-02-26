@@ -16,7 +16,7 @@
 
 ### 🖇️ Conections
 <p align="left">
-<a href="https://www.linkedin.com/in/igorportelladev-84a5b02aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Igor Portella" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igorportelladev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Igor Portella" height="30" width="40" /></a>
 <a href="https://www.instagram.com/portellasz13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aurios_arthur" height="30" width="40" /></a>
 
 ### 🤖 Languages and Technologies
