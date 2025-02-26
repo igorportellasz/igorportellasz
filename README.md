@@ -6,7 +6,7 @@
 <h2 align="center">I'm Igor, a 20-year-old Full Stack Developer Junior and a passionate learner. </h2>
 <h3 align="center">Software Engineering Student | Web & Mobile Developer</h3>
 
-- 🔭 I’m currently working on **Flutter Fullstack Developer** at a company
+- 🔭 I’m currently working as a **Flutter Fullstack Developer** at a company
 
 - 🌱 I’m currently learning **React and Node.JS**
 
