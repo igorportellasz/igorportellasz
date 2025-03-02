@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Flutter Fullstack Developer** at a company
 
-- 🌱 I’m currently learning **React and Node.JS**
+- 🌱 I’m currently learning **React + TypeScript**
 
 - 🧑‍🎓 I'm currently graduating in **Software Engineering**
 
