@@ -3,12 +3,12 @@
 **`FullStack Developer`**
 
 <h1 align="center">Hello World 👋</h1>
-<h2 align="center">I'm Igor, a 20-year-old Full Stack Developer Junior and a passionate learner. </h2>
+<h2 align="center">I'm Igor, a 20-year-old Full Stack Developer and a passionate learner. </h2>
 <h3 align="center">Software Engineering Student | Web & Mobile Developer</h3>
 
-- 🔭 I’m currently working as a **Flutter Fullstack Developer** at a company
+- 🔭 I’m currently working as a **React + Next.JS Fullstack Developer** at a company
 
-- 🌱 I’m currently learning **React + TypeScript**
+- 🌱 I’m currently learning **GO**
 
 - 🧑‍🎓 I'm currently graduating in **Software Engineering**
 
